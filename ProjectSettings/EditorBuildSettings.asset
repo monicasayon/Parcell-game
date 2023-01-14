@@ -6,12 +6,63 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+    path: Assets/Scenes/UI Scenes/MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Game.unity
+    path: Assets/Scenes/UI Scenes/Intro.unity
+    guid: c61e624c1b6c72544b288dcf0b8ed636
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Game.unity
     guid: 6bc00c06a44f8f344aa66d4c3390b4fe
   - enabled: 1
-    path: Assets/Scenes/LSelect.unity
-    guid: de3ff239a52d9524da3d44b7edd40991
+    path: Assets/Scenes/UI Scenes/GameOver.unity
+    guid: ff9a21611a11293499018cc03b9527c3
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Level1_1.unity
+    guid: 070420c108130844ab323b890297d255
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Level1_2.unity
+    guid: 95856a09ab76c464fb63befd82da188f
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/boss1-cutscene.unity
+    guid: f4fbbc2338fdbc34490f2fc12b1e8317
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Level1_3.unity
+    guid: d77aeed9f628e8341857bd348b56515d
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Win.unity
+    guid: b43057918e23a804ca80963bf978fc83
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Level2_1.unity
+    guid: 5eae9094dec0a02438f5b282e43cf9b4
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Level2_2.unity
+    guid: f091b457ad16f2442832201f080f33f9
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/boss2-cutscene.unity
+    guid: 1052b44bfb9f65849a7da7fbafa4ccbf
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Level2_3.unity
+    guid: 992e8904cc04fe748a0518b4684e04f8
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Win2.unity
+    guid: 9e8eabe2d6628bf4fa350be524362ab0
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Level3_1.unity
+    guid: aec8fe3af1df2654d98f489d7a25a629
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Level3_2.unity
+    guid: 8e707e8d3f0e57248bf55ad01ac5fd6b
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/boss3-cutscene.unity
+    guid: d64fb753622dc774297bcf36bc20d254
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Level3_3.unity
+    guid: a0910b79fc184bc47aaa579cbf3e12b1
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Win3.unity
+    guid: dead668c6fddd934ea2850295b1f1236
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Shop.unity
+    guid: 82fa41b8c5cb56748b2b16c72e21e699
   m_configObjects: {}
